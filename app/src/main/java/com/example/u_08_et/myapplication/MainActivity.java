@@ -62,6 +62,6 @@ public class MainActivity extends AppCompatActivity {
                 +String.valueOf(s16)+"\r\n"
                 +String.valueOf(s17)+"\r\n"
                 +String.valueOf(s18)+"\r\n"
-                +String.valueOf(n2) + "\r\n" +String.valueOf(n2));
+                +String.valueOf(n2) + "\r\n CAMBIOS EFECTUADOS" +String.valueOf(n2));
     }
 }
